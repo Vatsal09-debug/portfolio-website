@@ -6,7 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Software Engineer with 5+ years of experience building scalable web
+          A Creative full stack Software Engineer with 5+ years of experience building scalable web
           applications with expertise in React and TypeScript for frontend
           development and Python (FastAPI, Django) for backend services.
           Experienced in developing interactive dashboards, reusable UI
